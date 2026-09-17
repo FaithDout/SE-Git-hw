@@ -24,19 +24,21 @@ python3 apple.py
 1. Created the repository and made the first commit with `hello.py` on `main`.
 2. Created a branch called `feature-1` and added `apple.py`, then opened a
    pull request to merge it into `main`.
-3. Had the pull request reviewed, then merged it and deleted the branch.
+3. Merged the pull request into `main` and deleted the branch.
 4. Created two more branches that both edited the same line in `hello.py`,
    merged them one after another to produce a merge conflict on purpose, and
    resolved it by hand.
 5. Opened two Issues to track follow-up tasks, assigned them, and closed
    them once the work was done.
+6. Reviewed a pull request from a classmate, Samuel Twumasi, on his own
+   repository: [samtuga1/SE-Git-hw#1](https://github.com/samtuga1/SE-Git-hw/pull/1).
 
 ## Issues
 
 | Issue | Assigned to | Status | Resolution |
 |-------|------------|--------|------------|
-| Add comments to hello.py explaining what it does | Faith Doutimiwei | Open | Update this row to Closed once done, with a one-line note on what was added. |
-| Add a second print statement to apple.py | Pending a classmate | Open | This one needs a real classmate added as a collaborator first (see RUNBOOK.md, Part 6). Update the assignee, status, and resolution once that happens. |
+| [#2](https://github.com/FaithDout/SE-Git-hw/issues/2) Add comments to hello.py explaining what it does | Faith Doutimiwei | Closed | Added a one-line comment above the print statement. |
+| [#3](https://github.com/FaithDout/SE-Git-hw/issues/3) Add a second print statement to apple.py | Samuel Twumasi (samtuga1) | Closed | Resolved via [PR #4](https://github.com/FaithDout/SE-Git-hw/pull/4), which added a second print line and was merged into main. |
 
 ## Reflection
 
